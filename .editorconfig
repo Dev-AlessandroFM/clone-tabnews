@@ -1,0 +1,5 @@
+root = true
+
+[*]
+ident_syle = space
+ident_size = 2
